@@ -216,3 +216,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ==========================================================
+# MISCELÁNEA ESPECÍFICA DE DEEP LEARNING (Añadido manual)
+# ==========================================================
+
+# Entornos
+.ipynb_checkpoints/
+
+# Modelos de PyTorch y Hugging Face (¡No subir a GitHub!)
+*.pt
+*.pth
+results/
+results_improved/
+logs/
+runs/
+
+# Caché de Hugging Face y Datasets
+.cache/
