@@ -8,7 +8,7 @@ El objetivo principal es analizar la evolución de los modelos de lenguaje, comp
 
 A lo largo del proyecto, se resuelven retos críticos como el desbalanceo severo de clases, la ambigüedad semántica en comentarios de redes sociales y la optimización de modelos preentrenados de gran escala.
 
-### Estructura del Repositorio
+## Estructura del Repositorio
 
 * **`01_eda_and_glove_embeddings.ipynb`**: Análisis exploratorio (EDA), extracción de palabras clave mediante TF-IDF y visualización espacial de embeddings GloVe con la técnica **t-SNE**.
 * **`02_pytorch_gru_baseline.ipynb`**: Implementación en PyTorch de una red recurrente (GRU) unidireccional utilizando `packed padded sequences`.
