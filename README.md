@@ -39,7 +39,7 @@ A lo largo del proyecto, se resuelven retos críticos como el desbalanceo severo
 3.  **Eficiencia en Fine-Tuning**: Se demostró que descongelar solo las últimas 3 capas de BERT ofrece un equilibrio óptimo entre rendimiento (68.45%) y coste computacional, utilizando solo una fracción de los parámetros entrenables.
 4.  **Límites del Lenguaje**: Los resultados (~69% acc) reflejan la realidad del NLP en entornos ruidosos: el sarcasmo y la subjetividad humana imponen un techo natural a la clasificación automatizada.
 
-## ⚙️ Instalación y Uso
+## Instalación y Uso
 
 1. Clonar el repositorio:
    ```bash
