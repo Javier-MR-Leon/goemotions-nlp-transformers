@@ -1,0 +1,26 @@
+# --- Motores de Deep Learning ---
+tensorflow==2.10.0
+keras==2.10.0
+torch==2.7.1+cu118
+
+# --- Transformers y NLP ---
+transformers==4.57.3
+datasets==4.3.0
+tokenizers==0.22.1
+huggingface-hub==0.36.0
+gensim==4.4.0
+
+# --- Análisis de Datos y Ciencia ---
+numpy==1.26.4
+pandas==2.3.3
+scikit-learn==1.7.2
+scipy==1.15.3
+regex==2025.11.3
+
+# --- Visualización ---
+matplotlib==3.10.7
+seaborn==0.13.2
+
+# --- Utilidades y Finanzas ---
+tqdm==4.67.1
+ipywidgets==8.1.8
