@@ -37,7 +37,7 @@ A lo largo del proyecto, se resuelven retos críticos como el desbalanceo severo
 1.  **Superioridad del Transfer Learning**: El modelo BERT preentrenado superó significativamente a los modelos entrenados desde cero, mejorando especialmente en la detección de emociones minoritarias como *miedo* o *asco*.
 2.  **Atención vs Recurrencia**: El modelo Transformer base superó a la GRU, demostrando que los mecanismos de auto-atención capturan mejor el contexto en frases cortas e informales de Reddit.
 3.  **Eficiencia en Fine-Tuning**: Se demostró que descongelar solo las últimas 3 capas de BERT ofrece un equilibrio óptimo entre rendimiento (68.45%) y coste computacional, utilizando solo una fracción de los parámetros entrenables.
-4.  **Límites del Lenguaje**: Los resultados (~69% acc) reflejan la realidad del NLP en entornos ruidosos: el sarcasmo y la subjetividad humana imponen un techo natural a la clasificación automatizada.
+4.  **Límites del Lenguaje**: Los resultados (≈69%) reflejan la realidad del NLP en entornos ruidosos: el sarcasmo y la subjetividad humana imponen un techo natural a la clasificación automatizada.
 
 ## Instalación y Uso
 
